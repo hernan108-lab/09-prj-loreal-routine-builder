@@ -31,13 +31,15 @@ body {
 }
 
 .logo {
-  width: 230px;
-  margin-bottom: 16px;
+  width: 320px;
+  margin-bottom: 12px;
 }
 
 .site-title {
-  font-size: 24px;
+  font-family: "Italiana", serif;
+  font-size: 28px;
   font-weight: 700;
+  letter-spacing: 0.5px;
   color: #ff003b;
   margin-bottom: 10px;
 }
